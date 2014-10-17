@@ -1,0 +1,26 @@
+{
+  "name": "ovirt-console",
+  "version": "0.0.1",
+  "description": "Launch oVirt 3.3 VNC consoles under OS X",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/connyay/ovirt-console.git"
+  },
+  "bin": {
+    "ovirt-console": "index.js"
+  },
+  "keywords": [
+    "VNC"
+  ],
+  "author": "Connor Hindley <conn.hindley@gmail.com> (http://connorhindley.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/connyay/ovirt-console/issues"
+  },
+  "homepage": "https://github.com/connyay/ovirt-console",
+  "dependencies": {
+    "commander": "~2.4.0",
+    "ini": "~1.3.0"
+  }
+}
