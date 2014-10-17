@@ -1,6 +1,6 @@
 {
   "name": "ovirt-console",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Launch oVirt 3.3 VNC consoles under OS X",
   "main": "index.js",
   "repository": {
